@@ -1,0 +1,30 @@
+# 构建中间产物
+build/
+*.jar
+*.zip
+app-*.apk
+
+# 签名相关
+*.idsig
+*.keystore
+*.jks
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时脚本（开发过程用，不入库）
+*.tmp
+_*.py
+
+# 开发脚本
+_dev/
+
+# 构建产物（APK 只保留 release/ 里的）
+BpNote.apk
