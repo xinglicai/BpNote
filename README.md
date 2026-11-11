@@ -179,9 +179,9 @@ src/com/meownote/bp/
 
 ## 截图
 
-| 记录 | 趋势 |
-|---|---|
-| 待补充 | 待补充 |
+| 记录（按日期分组） | 趋势 | 编辑 |
+|---|---|---|
+| ![记录](docs/record.png) | ![趋势](docs/trend.png) | ![编辑](docs/edit.png) |
 
 ---
 
